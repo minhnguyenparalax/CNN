@@ -41,7 +41,7 @@ If you would like to contribute to this project, follow the steps below:
 └── README.md
 
 ## Data
-- [Document]http://lib.uet.vnu.edu.vn/bitstream/123456789/918/1/K20_KTPM_Le_Thi_Thu_Hang_luanvan.pdf
+- [Reference Document](http://lib.uet.vnu.edu.vn/bitstream/123456789/918/1/K20_KTPM_Le_Thi_Thu_Hang_luanvan.pdf)
 - Published: 23:15 PM, 26/10/2023
 - Contributors: REVITE team
 
@@ -50,6 +50,7 @@ If you would like to contribute to this project, follow the steps below:
 - [@Quy-Thanh](https://github.com/Quy-Thanh)
 - [@minhnguyenparalax](https://github.com/minhnguyenparalax) 
 - [@VuTuan13](https://github.com/VuTuan13)
+- [@bugslayerr](https://github.com/bugslayerr)
 
 ## License
 
