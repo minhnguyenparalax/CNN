@@ -41,8 +41,7 @@ If you would like to contribute to this project, follow the steps below:
 └── README.md
 
 ## Data
-
-- [Cucumber Disease Recognition Dataset](http://lib.uet.vnu.edu.vn/bitstream/123456789/918/1/K20_KTPM_Le_Thi_Thu_Hang_luanvan.pdf)
+- [Document]http://lib.uet.vnu.edu.vn/bitstream/123456789/918/1/K20_KTPM_Le_Thi_Thu_Hang_luanvan.pdf
 - Published: 23:15 PM, 26/10/2023
 - Contributors: REVITE team
 
