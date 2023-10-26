@@ -49,7 +49,7 @@ If you would like to contribute to this project, follow the steps below:
 ## Contributors
 
 - [@Quy-Thanh](https://github.com/Quy-Thanh)
-- [@minhnguyenparalax](https://github.com/  minhnguyenparalax)
+- [@minhnguyenparalax](https://github.com/minhnguyenparalax) 
 - [@VuTuan13](https://github.com/VuTuan13)
 
 ## License
