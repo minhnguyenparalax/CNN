@@ -1,4 +1,4 @@
-# Using CNN model to recognize the goods
+#Using CNN to recognize RGB image 
 
 ## Table of contents
 
