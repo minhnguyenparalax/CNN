@@ -4,8 +4,8 @@ from random import shuffle
 from tqdm import tqdm
 import os
 
-TRAIN_DIR=r'C:\Users\snehal\Desktop\Ansh stuff\Object detection\train'
-TEST_DIR=r'C:\Users\snehal\Desktop\Ansh stuff\Object detection\test'
+TRAIN_DIR=r'path to folder'
+TEST_DIR=r'path to folder'
 IMG_SIZE=50
 LR=1e-3
 MODEL_NAME = 'dogsvscats-{}-{}.model'.format(LR,'2conv-basic')
