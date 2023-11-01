@@ -8,7 +8,7 @@ TRAIN_DIR=r'path to folder'
 TEST_DIR=r'path to folder'
 IMG_SIZE=50
 LR=1e-3
-MODEL_NAME = 'dogsvscats-{}-{}.model'.format(LR,'2convyt-basic')
+MODEL_NAME = 'dogsvscats-{}-{}.model'.format(LR,'2conv-basic')
 
 def Label_img(img):
     label = img.split('.')[-3]
