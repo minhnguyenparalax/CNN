@@ -1,4 +1,4 @@
-## Using CNN to recognize RGB imag
+## Using CNN to recognize RGB image
 
 ## Table of contents
 
